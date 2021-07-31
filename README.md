@@ -1,5 +1,5 @@
 # AndroidStorage
-Demonstation of new android <b><a href="https://developer.android.com/training/data-storage">Scoped Storage API</a></b>
+Demonstation of new android <b><a href="https://developer.android.com/training/data-storage" target="_blank">Scoped Storage API</a></b>
 <li>Take a photo and save to internal storage</li>
 <li>Delete internal storage photo</li>
 <li>Take a photo and save to external storage</li>
